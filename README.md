@@ -37,7 +37,6 @@ I enjoy solving real-world problems and have actively participated in **Smart In
 - **Data Science Projects:** Data analysis, visualization, and predictive modeling using Python, Pandas & NumPy.  
 - **Database Projects:** CRUD operations, advanced SQL queries, and PostgreSQL database management.  
 
-*(Add links to your GitHub repositories here to showcase your work)*  
 
 ---
 
