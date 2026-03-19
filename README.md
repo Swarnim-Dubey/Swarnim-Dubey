@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Swarnim
 
 ### 🌟 About Me
-I'm a passionate programmer and aspiring Data Scientist with hands-on experience in **Python, C, C++, SQL**, and working knowledge of **PostgreSQL, Docker, Ubuntu, and Kali Linux**.  
-Currently, I am learning **Data Structures & Algorithms** and **Data Science** to deepen my skills and build impactful projects.  
+I'm a passionate programmer and aspiring Data Scientist with hands-on experience in **Python, C, C++, JavaScript, SQL**, and working knowledge of **PostgreSQL, Docker, Ubuntu, and Kali Linux**.  
+Currently, I am learning **Data Structures & Algorithms**, **JavaScript**, and **Data Science** to deepen my skills and build impactful projects.  
 
 I enjoy solving real-world problems and have actively participated in **Smart India Hackathon (SIH)** and other hackathons.  
 
@@ -13,6 +13,7 @@ I enjoy solving real-world problems and have actively participated in **Smart In
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -39,10 +40,10 @@ I enjoy solving real-world problems and have actively participated in **Smart In
 ---
 
 ### 🚀 Projects
-- **Hackathon & SIH Projects:** Developed software tools and innovative solutions for real-world problems.  
-- **Data Science Projects:** Data analysis, visualization, and predictive modeling using Python, Pandas & NumPy.  
-- **Database Projects:** CRUD operations, advanced SQL queries, and PostgreSQL database management.  
-
+- **Hackathon & SIH Projects:** Developed software tools and innovative solutions for real-world problems  
+- **Data Science Projects:** Data analysis, visualization, and predictive modeling using Python, Pandas & NumPy  
+- **Database Projects:** CRUD operations, advanced SQL queries, and PostgreSQL database management  
+- **JavaScript Projects:** Building interactive web features and exploring frontend/backend development  
 
 ---
 
@@ -54,7 +55,7 @@ I enjoy solving real-world problems and have actively participated in **Smart In
 ---
 
 ### ⚡ Fun Fact
-I love exploring **Linux environments**, building software projects, and experimenting with **data-driven solutions**.  
+I love exploring **Linux environments**, building software projects, and experimenting with **data-driven solutions** 🚀  
 
 ---
 
