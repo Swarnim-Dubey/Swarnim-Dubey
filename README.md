@@ -1,10 +1,12 @@
 # Hi there 👋, I'm Swarnim
 
 ### 🌟 About Me
-I'm a passionate programmer and aspiring Data Scientist with hands-on experience in **Python, C, C++, JavaScript, SQL**, and working knowledge of **PostgreSQL, Docker, Ubuntu, and Kali Linux**.  
-Currently, I am learning **Data Structures & Algorithms**, **JavaScript**, and **Data Science** to deepen my skills and build impactful projects.  
 
-I enjoy solving real-world problems and have actively participated in **Smart India Hackathon (SIH)** and other hackathons.  
+I'm a passionate programmer and aspiring Data Scientist with hands-on experience in **Python, C, C++, JavaScript, SQL**, and working knowledge of **PostgreSQL, Docker, Ubuntu, and Kali Linux**.
+
+Currently, I am learning **Data Structures & Algorithms**, **JavaScript**, and **Data Science** to deepen my skills and build impactful projects.
+
+I enjoy solving real-world problems and have actively participated in **Smart India Hackathon (SIH)** and other hackathons.
 
 ---
 
@@ -40,23 +42,53 @@ I enjoy solving real-world problems and have actively participated in **Smart In
 ---
 
 ### 🚀 Projects
-- **Hackathon & SIH Projects:** Developed software tools and innovative solutions for real-world problems  
-- **Data Science Projects:** Data analysis, visualization, and predictive modeling using Python, Pandas & NumPy  
-- **Database Projects:** CRUD operations, advanced SQL queries, and PostgreSQL database management  
-- **JavaScript Projects:** Building interactive web features and exploring frontend/backend development  
+
+- **Hackathon & SIH Projects:** Developed software tools and innovative solutions for real-world problems
+- **Data Science Projects:** Data analysis, visualization, and predictive modeling using Python, Pandas & NumPy
+- **Database Projects:** CRUD operations, advanced SQL queries, and PostgreSQL database management
+- **JavaScript Projects:** Building interactive web features and exploring frontend/backend development
 
 ---
 
 ### 🏆 Achievements
-- Participated in **Smart India Hackathon (SIH)**  
-- Active participant in multiple hackathons  
-- Building strong problem-solving skills through **DSA practice**  
+
+- Participated in **Smart India Hackathon (SIH)**
+- Active participant in multiple hackathons
+- Building strong problem-solving skills through **DSA practice**
 
 ---
 
 ### ⚡ Fun Fact
-I love exploring **Linux environments**, building software projects, and experimenting with **data-driven solutions** 🚀  
+
+I love exploring **Linux environments**, building software projects, and experimenting with **data-driven solutions** 🚀
 
 ---
 
-![Swarnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swarnim-Dubey&show_icons=true&theme=tokyonight&count_private=true)
+## 📊 Coding Stats
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐙 GitHub Stats</h3>
+      <a href="https://github.com/Swarnim-Dubey">
+        <img src="https://github-readme-stats.vercel.app/api?username=Swarnim-Dubey&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Swarnim's GitHub Stats"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Swarnim-Dubey?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnim-Dubey&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most Used Languages"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧩 LeetCode Stats</h3>
+      <a href="https://leetcode.com/u/Swarnim_Dubey/">
+        <img src="https://leetcard.jacoblin.cool/Swarnim_Dubey?theme=dark&font=Baloo_2&ext=activity" width="100%" alt="Swarnim's LeetCode Stats"/>
+      </a>
+      <br/><br/>
+      <a href="https://leetcode.com/u/Swarnim_Dubey/">
+        <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
