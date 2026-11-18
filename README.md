@@ -1,94 +1,133 @@
-# Hi there 👋, I'm Swarnim
 
-### 🌟 About Me
+<h2 align="left">Hi, I'm Swarnim 👋</h2>
 
-I'm a passionate programmer and aspiring Data Scientist with hands-on experience in **Python, C, C++, JavaScript, SQL**, and working knowledge of **PostgreSQL, Docker, Ubuntu, and Kali Linux**.
-
-Currently, I am learning **Data Structures & Algorithms**, **JavaScript**, and **Data Science** to deepen my skills and build impactful projects.
-
-I enjoy solving real-world problems and have actively participated in **Smart India Hackathon (SIH)** and other hackathons.
+<p align="left">
+  B.Tech CSE (Data Science) student interested in Data Science, Backend Development, and Data Security.
+</p>
 
 ---
 
-### 💻 Skills & Tech Stack
+### About Me
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-4B0082?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/Hackathon-008080?style=for-the-badge)
-![SIH](https://img.shields.io/badge/Smart%20India%20Hackathon-FF5733?style=for-the-badge)
+- 🎓 Currently pursuing B.Tech in Computer Science (Data Science)
+- 💻 Interested in Python, databases, and backend development
+- 🔐 Exploring data security and cybersecurity
+- 🌱 Currently improving my skills in Data Science and software development
+- 🛠️ I enjoy building practical projects and learning by doing
 
----
 
-### 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swarnim-Dubey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnim-dubey-594921328/)
-
----
-
-### 🚀 Projects
-
-- **Hackathon & SIH Projects:** Developed software tools and innovative solutions for real-world problems
-- **Data Science Projects:** Data analysis, visualization, and predictive modeling using Python, Pandas & NumPy
-- **Database Projects:** CRUD operations, advanced SQL queries, and PostgreSQL database management
-- **JavaScript Projects:** Building interactive web features and exploring frontend/backend development
-
----
-
-### 🏆 Achievements
-
-- Participated in **Smart India Hackathon (SIH)**
-- Active participant in multiple hackathons
-- Building strong problem-solving skills through **DSA practice**
-
----
-
-### ⚡ Fun Fact
-
-I love exploring **Linux environments**, building software projects, and experimenting with **data-driven solutions** 🚀
-
----
-
-## 📊 Coding Stats
+### 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🐙 GitHub Stats</h3>
-      <a href="https://github.com/Swarnim-Dubey">
-        <img src="https://github-readme-stats.vercel.app/api?username=Swarnim-Dubey&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Swarnim's GitHub Stats"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Swarnim-Dubey?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnim-Dubey&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most Used Languages"/>
-      </a>
+    <td align="center" width="160">
+      <b>Languages</b>
     </td>
-    <td align="center" width="50%">
-      <h3>🧩 LeetCode Stats</h3>
-      <a href="https://leetcode.com/u/Swarnim_Dubey/">
-        <img src="https://leetcard.jacoblin.cool/Swarnim_Dubey?theme=dark&font=Baloo_2&ext=activity" width="100%" alt="Swarnim's LeetCode Stats"/>
-      </a>
-      <br/><br/>
-      <a href="https://leetcode.com/u/Swarnim_Dubey/">
-        <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
-      </a>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Databases</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Backend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Tools & Platforms</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=light" />
+    </td>
+  </tr>
+  
+<tr>
+  <td align="center">
+    <b>Data Science</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=scikitlearn&theme=light" />
+  </td>
+</tr>
+
+</table>
+
+
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 VaultX</h3>
+      <p>A desktop password manager built to securely store and manage credentials.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      </p>
+      <a href="https://github.com/Swarnim-Dubey/Password-Manager">↗ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Doc-Chat-AI</h3>
+      <p>A document chatbot that lets users upload files and ask questions about their content.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
+      </p>
+      <a href="https://github.com/Swarnim-Dubey/Doc-Chat-AI">↗ View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ AutoML</h3>
+      <p>A project exploring the automation of machine learning workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-orange?style=flat-square" />
+      </p>
+      <a href="https://github.com/Swarnim-Dubey/AutoML">↗ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Mini-DB</h3>
+      <p>A hands-on project exploring database concepts and implementation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+      </p>
+      <a href="https://github.com/Swarnim-Dubey/Mini-DB">↗ View Project</a>
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <a href="https://github.com/Swarnim-Dubey?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Swarnim-Dubey">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/swarnim-dubey-594921328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
